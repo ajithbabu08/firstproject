@@ -42,3 +42,8 @@ void main()
   print("I have scored $cgpa in degree");
   print("My mobile no is $mob");
 }
+
+
+///To run program in vs code
+///cd bin
+///dart run filename.dart
