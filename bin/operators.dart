@@ -82,7 +82,6 @@ print("------------------------------------------------------------------------"
   var res= age1 <= age2 ? "Greater" : "lower";
   print(res);
 
-
   //second method
   int no1=50,no2=80;
   var lrg=no1>no2 ? no1 :no2;
